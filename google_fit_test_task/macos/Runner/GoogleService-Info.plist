@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1074023038843-3ijlkifjp76ij2s8k4sckr7ob8421m70.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1074023038843-3ijlkifjp76ij2s8k4sckr7ob8421m70</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1074023038843-64l7p9vroatpp6d96p3ju075qjqk4g9q.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAX2QGuPxqfEZGbrQiYWPv6aNVKYgUeIvw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1074023038843</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.googleFitTestTask.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>tokyo-wave-397505</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tokyo-wave-397505.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1074023038843:ios:a5bd22793703053b9187de</string>
+</dict>
+</plist>

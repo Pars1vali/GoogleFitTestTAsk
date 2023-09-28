@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1074023038843",
+    "project_id": "tokyo-wave-397505",
+    "storage_bucket": "tokyo-wave-397505.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074023038843:android:4e5d1ba7b3d857af9187de",
+        "android_client_info": {
+          "package_name": "com.example.google_fit_test_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074023038843-vqutb10c54ggoa4k7capl9heudhfrp60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHzFbsBxIwMmTr99tbw3VRjznNwxvDW6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074023038843-8r99lbnp8erlmr0ahdl2u4bo6st1lugc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1074023038843-3ijlkifjp76ij2s8k4sckr7ob8421m70.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.googleFitTestTask.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
